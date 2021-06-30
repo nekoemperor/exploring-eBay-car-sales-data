@@ -1,4 +1,4 @@
-# Profitable App Profiles for the App Store and Google Play Markets
+# Exploring eBay Car Sales Data
 
 ## Table of contents
 * [About](#about)
